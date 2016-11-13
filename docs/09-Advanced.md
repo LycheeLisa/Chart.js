@@ -409,6 +409,7 @@ Plugins will be called at the following times
 * Before datasets draw
 * After datasets draw
 * Resize
+* Config Update
 * Before an animation is started
 
 Plugins should derive from Chart.PluginBase and implement the following interface
